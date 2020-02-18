@@ -1,7 +1,7 @@
-### Date created
+### February 17, 2020
 Include the date you created this project and README file.
 
-### Project Title
+### Explore_bikeshare_data
 Replace the Project Title
 
 ### Description
