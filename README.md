@@ -2,7 +2,7 @@
 February 18, 2020
 
 ### Project Title
-Explore_bikeshare_data
+Explore Bikeshare Data
 
 ### Project Description
 Compares bike share data between 3 cities
