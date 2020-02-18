@@ -15,6 +15,9 @@ washington.csv
 ### Hours of Frustration
 15
 
+### What Did I Learn?
+Not to use R.
+
 ### Credits
 Udacity
 
