@@ -1,11 +1,11 @@
-### February 17, 2020
-Include the date you created this project and README file.
+### Project Date
+February 17, 2020
 
-### Explore_bikeshare_data
-Replace the Project Title
+### Project Title
+Explore_bikeshare_data
 
-### Description
-Describe what your project is about and what it does
+### Project Description
+Compares bike share data between 3 cities
 
 ### Files used
 Include the files used
