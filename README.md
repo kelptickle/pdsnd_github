@@ -7,10 +7,13 @@ Explore_bikeshare_data
 ### Project Description
 Compares bike share data between 3 cities
 
-### Files used
+### Files Used
 chicago.csv
 new-york-city.csv
 washington.csv
+
+### Hours of Frustration
+15
 
 ### Credits
 Udacity
